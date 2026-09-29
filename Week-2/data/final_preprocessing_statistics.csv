@@ -1,0 +1,11 @@
+Metric,Value
+Original records,1000
+Records after issue simulation,1005
+Duplicate records removed,4
+Final records,1001
+Original columns,16
+Final columns,26
+Missing values remaining,0
+Duplicate rows remaining,0
+Negative distances remaining,0
+Invalid ratings remaining,0

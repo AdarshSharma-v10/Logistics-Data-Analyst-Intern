@@ -104,4 +104,3 @@ logistics-strategic-planning/
 │
 ├── .gitignore
 ├── README.md
-└── requirements.txt

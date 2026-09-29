@@ -1,0 +1,8 @@
+Stage,Rows,Columns
+Original baseline dataset,1000,16
+After simulated data-quality issues,1005,16
+After duplicate removal,1001,16
+After missing-value treatment,1001,16
+After invalid-value treatment,1001,16
+After outlier treatment,1001,16
+Final preprocessed dataset,1001,26
