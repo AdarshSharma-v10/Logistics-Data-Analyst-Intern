@@ -1,0 +1,3 @@
+Model,MAE (minutes),RMSE (minutes),R²
+Tuned Ridge,5.796,7.493,0.9549
+Linear Regression,5.798,7.496,0.9548

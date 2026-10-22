@@ -1,0 +1,4 @@
+Model,MAE (minutes),RMSE (minutes),R²
+Linear Regression,5.8,7.5,0.9548
+Random Forest,8.89,11.29,0.8976
+Baseline (Mean),28.87,35.53,-0.0148

@@ -1,0 +1,4 @@
+Model,Mean CV RMSE,CV RMSE Std
+Ridge,7.986,0.075
+Linear Regression,7.987,0.079
+Lasso,10.331,0.835

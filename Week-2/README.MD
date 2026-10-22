@@ -383,7 +383,7 @@ The project includes visual evidence of the preprocessing process.
 
 ### Missing Values Before Cleaning
 
-![Missing Values Before Cleaning](figures/missing_values_before_cleaning.png)
+![Missing Values Before Cleaning](Week-2/figures/missing_values_before_cleaning.png)
 
 ### Outliers Before Treatment
 
